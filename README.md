@@ -1,6 +1,6 @@
-# Meridian Transconstruct
+# Meridian Transconstruct :warning:
 
-Meridian Transconstruct is a project developed using modern web technologies. This repository contains the source code and configuration files necessary to build and run the application.
+- Meridian Transconstruct - is a project developed using modern web technologies. This repository contains the source code and configuration files necessary to build and run the application.
 
 
 ## About
