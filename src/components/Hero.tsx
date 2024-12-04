@@ -3,7 +3,7 @@ import React from 'react';
 export function Hero() {
   return (
     <section className="relative h-[600px] bg-cover bg-center" style={{
-      backgroundImage: 'url("https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80")'
+      backgroundImage: 'url("https://res.cloudinary.com/dwmdxgd2z/image/upload/v1733318417/img_3_eghiaq.png")'
     }}>
       <div className="absolute inset-0 bg-black bg-opacity-50" />
       <div className="container relative flex items-center h-full px-4 mx-auto">

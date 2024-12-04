@@ -33,11 +33,11 @@ export function Header() {
               <span className="text-2xl font-bold">MERIDIAN TRANSCONSTRUCT</span>
             </div>
             <div className="space-x-8">
-              <a href="#home" className="hover:text-yellow-600">Acasă</a>
-              <a href="#services" className="hover:text-yellow-600">Servicii</a>
-              <a href="#projects" className="hover:text-yellow-600">Proiecte</a>
-              <a href="#about" className="hover:text-yellow-600">Despre noi</a>
-              <a href="#contact" className="hover:text-yellow-600">Contact</a>
+              <a href="#home" className="text-lg font-bold hover:text-yellow-600">Acasă</a>
+              <a href="#services" className="text-lg font-bold hover:text-yellow-600">Servicii</a>
+              <a href="#projects" className="text-lg font-bold hover:text-yellow-600">Proiecte</a>
+              <a href="#about" className="text-lg font-bold hover:text-yellow-600">Despre noi</a>
+              <a href="#contact" className="text-lg font-bold hover:text-yellow-600">Contact</a>
             </div>
           </div>
         </nav>
