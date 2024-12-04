@@ -9,7 +9,7 @@ export function Footer() {
           <div>
             <div className="flex items-center mb-4 space-x-2">
               <HardHat size={32} className="text-yellow-600" />
-              <span className="text-2xl font-bold">ACL-Construct</span>
+              <span className="text-2xl font-bold">Meridian Transconstruct</span>
             </div>
             <p className="text-gray-400">
             Construim excelență, oferim încredere.
