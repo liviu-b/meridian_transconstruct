@@ -2,7 +2,6 @@
  
 - Meridian Transconstruct - is a project developed using modern web technologies and a personalized webiste. This repository contains the source code and configuration files necessary to build and run the application.
 
-
 ## About
 
 This project is a web application built with a focus on performance and scalability. It leverages TypeScript for type safety and modern JavaScript features, along with Tailwind CSS for styling.
